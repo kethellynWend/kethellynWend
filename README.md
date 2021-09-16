@@ -1,4 +1,4 @@
-- 👋 Olá, sou @kethellynWend
+- 👋 Olá, sou a Kethellyn Wend
 - 👀 Estou interessada em Programação
 - 🌱 Atualmente estou aprendendo Lógica da Programação
 - ....
