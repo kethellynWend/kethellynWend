@@ -1,7 +1,8 @@
-- 👋 Olá, sou a Kethellyn Wend
-- 👀 Estou interessada em Programação
-- 🌱 Atualmente estou aprendendo Lógica da Programação
--
+## Oiii eu sou a Kethellyn Wend 🖐
+- Estudante de Analise e desenvolvimento de sistemas 💻
+- Leitora compulsiva 📚
+
+
 <div align="center">
   <a href="https://github.com/KethellynWend">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KethellynWend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
