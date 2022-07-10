@@ -1,6 +1,7 @@
 ## Oiii eu sou a Kethellyn Wend 🖐
 - Estudante de Analise e desenvolvimento de sistemas 💻
-- Leitora compulsiva 📚
+- Leitora compulsiva 📚🦇⚔🎃
+- Amante de musicas 🎶
 
 
 <div align="center">
